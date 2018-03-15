@@ -110,6 +110,7 @@ baseboard_DATA = \
 	baseboards/powerpc-sim.exp \
 	baseboards/powerpcle-sim.exp \
 	baseboards/riscv-sim.exp \
+	baseboards/riscv-gdbserver.exp \
 	baseboards/rx-sim.exp \
 	baseboards/sh-sid.exp \
 	baseboards/sh-sim.exp \

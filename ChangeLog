@@ -1,3 +1,9 @@
+2018-03-15  Andrew Burgess  <andrew.burgess@embecosm.com>
+
+	* Makefile.am (baseboard_DATA): Add new file.
+	* Makefile.in: Regenerate.
+	* baseboards/riscv-gdbserver.exp: New file.
+
 2017-06-06  Ian Bolton  <ian.bolton@embecosm.com>
 
 	* baseboards/riscv-spike.exp: New file.
